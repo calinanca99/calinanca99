@@ -1,1 +1,1 @@
-Hi, I'm Calin! I'm interested in finance (especially derivatives), machine learning and other application of probability theory and/or mathematics. Currently stuyding econometrics in Amsterdam.
+Hi, I'm Calin! I'm interested in (financial) derivatives, applications of probability theory and/or mathematics and backend engineering. Currently stuyding and working in Amsterdam.
