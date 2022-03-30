@@ -1,5 +1,3 @@
-Hi, I'm Calin! 
+Constantly bridging the gap between what I know and what I would like to know.
 
-I'm interested in financial derivatives and responsible and sensible applications of mathematics in the real life.
-
-Currently living and working in Amsterdam.
+Currently working and living in Amsterdam, NL.
